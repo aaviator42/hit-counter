@@ -1,5 +1,5 @@
 # hit-counter
-PHP website hit counter to demonstrate StorX usage.
+Simple PHP website hit counter function to demonstrate StorX usage.
 
 Requires [StorX](https://github.com/aaviator42/StorX), obviously.
 
